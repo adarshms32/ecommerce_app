@@ -1,15 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:ecommerce_app/utils/theme/theme.dart';
-import 'package:ecommerce_app/utils/constants/colors.dart';
-
-import 'app.dart';
-
-void main() {
-
-
-
-  runApp(const App());
-}
+/// -- Use this Class to setup themes, initial Bindings, any animations and much more
 
 class App extends StatelessWidget {
   const App({super.key});
